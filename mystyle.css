@@ -1,5 +1,5 @@
 body {
-    background-color: skyblue;
+    background-color: black;
 }
 h1 {
     color: white;
@@ -15,6 +15,17 @@ h2 {
     font-weight: lighter;
     font-size: 12px;
 }
+h3 {
+  color: white;
+  font-family: arial;
+  font-style: italic;
+  font-weight: lighter;
+  font-size: 12px;
+ position: absolute;
+  left: 80%;
+  top: 4.5%;
+}
+
 a {
     color: white;
     font-family: arial;
@@ -22,21 +33,22 @@ a {
     font-weight: lighter;
     font-size: 12px;
 }
+
 .a1 {
     border-left: 6px solid white;
     height: 500px;
     position: absolute;
-    left: 99.9%;
+    left: 99.7%;
     margin-left: -3px;
-    top: 20;
+    top: 9.2%;
   }
   .a2 {
     border-left: 6px solid white;
     height: 500px;
     position: absolute;
-    left: 99%;
+    left: 98.5%;
     margin-left: -3px;
-    top: 20;
+    top: 9.2%;
   }
   .a3 {
     border-left: 6px solid white;
@@ -44,7 +56,8 @@ a {
     position: absolute;
     left: 97%;
     margin-left: -3px;
-    top: 20;
+    top: 9.2%;
+    
   }
   .a4 {
     border-left: 6px solid white;
@@ -52,51 +65,51 @@ a {
     position: absolute;
     left: 95%;
     margin-left: -3px;
-    top: 20;
+    top: 9.2%;
   }
   .a5 {
     border-left: 6px solid white;
     height: 500px;
     position: absolute;
-    left: 93%;
+    left: 94%;
     margin-left: -3px;
-    top: 20;
+    top: 9.2%;
   }
   
   .a6 {
     border-left: 6px solid white;
     height: 500px;
     position: absolute;
-    left: 91%;
+    left: 92.5%;
     margin-left: -3px;
-    top: 20;
+    top: 9.2%;
   }
   
   .a7 {
     border-left: 6px solid white;
     height: 500px;
     position: absolute;
-    left: 89%;
+    left: 91%;
     margin-left: -3px;
-    top: 20;
+    top: 9.2%;
   }
   
   .a8 {
     border-left: 6px solid white;
     height: 500px;
     position: absolute;
-    left: 87%;
+    left: 89%;
     margin-left: -3px;
-    top: 20;
+    top: 9.2%;
   }
   
   .a9 {
     border-left: 6px solid white;
     height: 500px;
     position: absolute;
-    left: 85%;
+    left: 87%;
     margin-left: -3px;
-    top: 20;
+    top: 9.2%;
   }
   
 
@@ -104,124 +117,124 @@ a {
     border-left: 6px solid white;
     height: 500px;
     position: absolute;
-    left: 83%;
+    left: 85.5%;
     margin-left: -3px;
-    top: 20;
+    top: 9.2%;
   }
   
   .a11 {
     border-left: 6px solid white;
     height: 500px;
     position: absolute;
-    left: 81%;
+    left: 83%;
     margin-left: -3px;
-    top: 20;
+    top: 9.2%;
   }
   
   .a12 {
     border-left: 6px solid white;
     height: 500px;
     position: absolute;
-    left: 79%;
+    left: 80.5%;
     margin-left: -3px;
-    top: 20;
+    top: 9.2%;
   }
   
   .a13 {
     border-left: 6px solid white;
     height: 500px;
     position: absolute;
-    left: 77%;
+    left: 79%;
     margin-left: -3px;
-    top: 20;
+    top: 9.2%;
   }
   
   .a14 {
     border-left: 6px solid white;
     height: 500px;
     position: absolute;
-    left: 75%;
+    left: 77.5%;
     margin-left: -3px;
-    top: 20;
+    top: 9.2%;
   }
   
   .a15 {
     border-left: 6px solid white;
     height: 500px;
     position: absolute;
-    left: 73%;
+    left: 76%;
     margin-left: -3px;
-    top: 20;
+    top: 9.2%;
   }
   
   .a16 {
     border-left: 6px solid white;
     height: 500px;
     position: absolute;
-    left: 71%;
+    left: 74%;
     margin-left: -3px;
-    top: 20;
+    top: 9.2%;
   }
   
   .a17 {
     border-left: 6px solid white;
     height: 500px;
     position: absolute;
-    left: 69%;
+    left: 72.5%;
     margin-left: -3px;
-    top: 20;
+    top: 9.2%;
   }
   
   .a18 {
     border-left: 6px solid white;
     height: 500px;
     position: absolute;
-    left: 67%;
+    left: 71%;
     margin-left: -3px;
-    top: 20;
+    top: 9.2%;
   }
   
   .a19 {
     border-left: 6px solid white;
     height: 500px;
     position: absolute;
-    left: 65%;
+    left: 69%;
     margin-left: -3px;
-    top: 20;
+    top: 9.2%;
   }
   
   .a20 {
     border-left: 6px solid white;
     height: 500px;
     position: absolute;
-    left: 63%;
+    left: 67.5%;
     margin-left: -3px;
-    top: 20;
+    top: 9.2%;
   }
   
   .a21 {
     border-left: 6px solid white;
     height: 500px;
     position: absolute;
-    left: 61%;
+    left: 66%;
     margin-left: -3px;
-    top: 20;
+    top: 9.2%;
   }
   .a22 {
     border-left: 6px solid white;
     height: 500px;
     position: absolute;
-    left: 59%;
+    left: 62.5%;
     margin-left: -3px;
-    top: 20;
+    top: 9.2%;
   }
   .a23 {
     border-left: 6px solid white;
     height: 500px;
     position: absolute;
-    left: 50%;
+    left: 53%;
     margin-left: -3px;
-    top: 20;
+    top: 9.2%;
   }
   .a24 {
     border-left: 6px solid white;
@@ -229,23 +242,24 @@ a {
     position: absolute;
     left: 47.5%;
     margin-left: -3px;
-    top: 20;
+    top: 9.2%;
   }
+  
   .a25 {
     border-left: 6px solid white;
     height: 500px;
     position: absolute;
-    left: 38.5%;
+    left: 44%;
     margin-left: -3px;
-    top: 20;
+    top: 9.2%;
   }
   .a26 {
     border-left: 6px solid white;
     height: 500px;
     position: absolute;
-    left: 30%;
+    left: 29%;
     margin-left: -3px;
-    top: 20;
+    top: 9.2%;
   }
   .a27 {
     border-left: 6px solid white;
@@ -253,7 +267,7 @@ a {
     position: absolute;
     left: 26%;
     margin-left: -3px;
-    top: 20;
+    top: 9.2%;
   }
   .a28 {
     border-left: 6px solid white;
@@ -261,7 +275,7 @@ a {
     position: absolute;
     left: 23%;
     margin-left: -3px;
-    top: 20;
+    top: 9.2%;
   }
   .a29 {
     border-left: 6px solid white;
@@ -269,7 +283,7 @@ a {
     position: absolute;
     left: 21%;
     margin-left: -3px;
-    top: 20;
+    top: 9.2%;
   }
   .a30 {
     border-left: 6px solid white;
@@ -277,7 +291,7 @@ a {
     position: absolute;
     right: 81%;
     margin-left: -3px;
-    top: 20;
+    top: 9.2%;
   }
   .a31 {
     border-left: 6px solid white;
@@ -285,7 +299,7 @@ a {
     position: absolute;
     right: 84.5%;
     margin-left: -3px;
-    top: 20;
+    top: 9.2%;
   }
   .a32 {
     border-left: 6px solid white;
@@ -293,7 +307,7 @@ a {
     position: absolute;
     right: 87%;
     margin-left: -3px;
-    top: 20;
+    top: 9.2%;
   }
   .a33 {
     border-left: 6px solid white;
@@ -301,7 +315,7 @@ a {
     position: absolute;
     right: 89.5%;
     margin-left: -3px;
-    top: 20;
+    top: 9.2%;
   }
   .a34 {
     border-left: 6px solid white;
@@ -309,7 +323,7 @@ a {
     position: absolute;
     right: 91.5%;
     margin-left: -3px;
-    top: 20;
+    top: 9.2%;
   }
   .a35 {
     border-left: 6px solid white;
@@ -317,7 +331,7 @@ a {
     position: absolute;
     right: 92.5%;
     margin-left: -3px;
-    top: 20;
+    top: 9.2%;
   }
   .a36 {
     border-left: 6px solid white;
@@ -325,7 +339,7 @@ a {
     position: absolute;
     right: 94.5%;
     margin-left: -3px;
-    top: 20;
+    top: 9.2%;
   }
   .a37 {
     border-left: 6px solid white;
@@ -890,7 +904,7 @@ a {
     border-left: 6px solid white;
     height: 500px;
     position: absolute;
-    right: 39%;
+    right: 39.8%;
     margin-left: -3px;
     top: 54%;
   }
@@ -931,37 +945,361 @@ a {
 
 
 
-  
+
   .a111 {
     border-left: 6px solid white;
     height: 500px;
     position: absolute;
-    right: 12%;
+    right: 12.5%;
     margin-left: -3px;
     top: 54%;
   }
 
+  .a112 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 11%;
+    margin-left: -3px;
+    top: 54%;
+  }
+
+  .a113 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 9.6%;
+    margin-left: -3px;
+    top: 54%;
+  }
+  .a114 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: .7%;
+    margin-left: -3px;
+    top: 54%;
+  }
+  .a115 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 1%;
+    margin-left: -3px;
+    top: 69%;
+  }
+  .a116 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 5.5%;
+    margin-left: -3px;
+    top: 69%;
+  }
+  .a117 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 10.2%;
+    margin-left: -3px;
+    top: 69%;
+  }
+
+  .a118 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 14.5%;
+    margin-left: -3px;
+    top: 69%;
+  }
+
+  .a119 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 16%;
+    margin-left: -3px;
+    top: 69%;
+  }
+
+  .a120 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 17.5%;
+    margin-left: -3px;
+    top: 69%;
+  }
+
+  .a121 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right:18.5%;
+    margin-left: -3px;
+    top: 69%;
+  }
+   .a122 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right:20.3%;
+    margin-left: -3px;
+    top: 69%;
+  }
+  .a123 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right:23.7%;
+    margin-left: -3px;
+    top: 69%;
+  }
+  .a124 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right:33.8%;
+    margin-left: -3px;
+    top: 69%;
+  }
+  .a125 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right:39.4%;
+    margin-left: -3px;
+    top: 69%;
+  }
+  .a126 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right:40.6%;
+    margin-left: -3px;
+    top: 69%;
+  }
+  .a127 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right:46.1%;
+    margin-left: -3px;
+    top: 69%;
+  }
+  .a128 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right:50.4%;
+    margin-left: -3px;
+    top: 69%;
+  }
+  .a129 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right:52.5%;
+    margin-left: -3px;
+    top: 69%;
+  }
+  .a130 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right:55%;
+    margin-left: -3px;
+    top: 69%;
+  }
+  .a131 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right:56.5%;
+    margin-left: -3px;
+    top: 69%;
+  }
+  .a132 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right:58.5%;
+    margin-left: -3px;
+    top: 69%;
+  }
+
+  .a133 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right:60%;
+    margin-left: -3px;
+    top: 69%;
+  }
+  .a134 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right:0%;
+    margin-left: -3px;
+    top: 84%;
+  }
+  .a135 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right:0%;
+    margin-left: -3px;
+    top: 99%;
+  }
+  
+  .l {
+    border-left: 6px solid #e2363d;
+    height: 500px;
+    position: absolute;
+    right:0%;
+    margin-left: -3px;
+    top: 9.2%;
+   z-index: -1;
+  }
+
+  .l1 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right:0%;
+    margin-left: -3px;
+    top: 24%;
+    z-index: -1;
+  }
+  .l2 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right:0%;
+    margin-left: -3px;
+    top: 39%;
+    z-index: -1;
+  }
+  .l3 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right:0%;
+    margin-left: -3px;
+    top: 54%;
+    z-index: -1;
+  }
+  .l4 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right:0%;
+    margin-left: -3px;
+    top: 69%;
+    z-index: -1;
+  }
+ 
+  .l5 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right:0%;
+    margin-left: -3px;
+    top: 99%;
+    z-index: -1;
+  }
+ 
+ 
   
   
   
+  .ellipse {
+    position: absolute;
+    left:-.2%;
+    top:22.1%;
+  }
+  .ellipse2 {
+    position: absolute;
+    left:.5%;
+    top:22.9%;
+  }
+  .ellipse3 {
+    position: absolute;
+    right:-.5%;
+    top:37%;
+  }
+  .ellipse4 {
+    position: absolute;
+    right:.3%;
+    top:37.7%;
+  }
+  .ellipse5 {
+    position: absolute;
+    left:-.2%;
+    top:52%;
+  }
+  .ellipse6 {
+    position: absolute;
+    left:.5%;
+    top:52.65%;
+  }
+  .ellipse7 {
+    position: absolute;
+    right:-.2%;
+    top:67%;
+    z-index:-1;
+  }
+  .ellipse8 {
+    position: absolute;
+    right:.5%;
+    top:67.6%;
+    
+  }
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+  .ellipse9 {
+    position: absolute;
+    left:-.2%;
+    top:82%;
+    z-index:-1;
+  }
+  .ellipse10 {
+    position: absolute;
+    left:.5%;
+    top:82.65%;
+    
+  }
+  .ellipse11 {
+    position: absolute;
+    right:-.2%;
+    top:97%;
+    z-index:-1;
+  }
+  .ellipse12 {
+    position: absolute;
+    right:.5%;
+    top:97.7%;
+    
+  }
+  .rect1 {
+    position: absolute;
+    right:-.7%;
+    top:37%;
+    
+  }
+  .rect2 {
+    position: absolute;
+    right:-.7%;
+    top:67%;
+    
+  }
+  .rect3 {
+    position: absolute;
+    right:-.7%;
+    top:97%;
+    
+  }
   
   
   
@@ -976,13 +1314,14 @@ a {
 
 /* Tooltip container */
 .tooltip {
-    position: relative;
+    position: absolute;
     display: inline-block;
-   
+ left: 99.4%;
+ top:9%;
   }
   
   /* Tooltip text */
-  .tooltip .tooltiptext {
+  .tooltiptext {
     visibility: hidden;
     width: 120px;
     background-color: #555;
@@ -990,6 +1329,9 @@ a {
     text-align: center;
     padding: 5px 0;
     border-radius: 6px;
+    font-family: arial;
+    font-weight: lighter;
+    font-size: 10px;
   
     /* Position the tooltip text */
     position: absolute;
@@ -1020,3 +1362,1690 @@ a {
     visibility: visible;
     opacity: 1;
   }
+
+
+
+
+  /* Tooltip container */
+.tooltip2 {
+  position: absolute;
+  display: inline-block;
+left: 98.3%;
+top:9%;
+}
+
+/* Tooltip text */
+.tooltiptext2 {
+  visibility: hidden;
+  width: 120px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+  font-family: arial;
+  font-weight: lighter;
+  font-size: 10px;
+
+  /* Position the tooltip text */
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
+
+  /* Fade in tooltip */
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+/* Tooltip arrow */
+.tooltip2 .tooltiptext2::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip2:hover .tooltiptext2 {
+  visibility: visible;
+  opacity: 1;
+}
+
+
+
+  /* Tooltip container */
+  .tooltip3 {
+    position: absolute;
+    display: inline-block;
+  left: 97.5%;
+  top:9%;
+  }
+  
+  /* Tooltip text */
+  .tooltiptext3 {
+    visibility: hidden;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    font-family: arial;
+    font-weight: lighter;
+    font-size: 10px;
+  
+    /* Position the tooltip text */
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+  
+    /* Fade in tooltip */
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  
+  /* Tooltip arrow */
+  .tooltip3 .tooltiptext3::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+  }
+  
+  /* Show the tooltip text when you mouse over the tooltip container */
+  .tooltip3:hover .tooltiptext3 {
+    visibility: visible;
+    opacity: 1;
+  }
+  
+
+
+
+  /* Tooltip container */
+  .tooltip4 {
+    position: absolute;
+    display: inline-block;
+  left: 95.5%;
+  top:9%;
+  }
+  
+  /* Tooltip text */
+  .tooltiptext4 {
+    visibility: hidden;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    font-family: arial;
+    font-weight: lighter;
+    font-size: 10px;
+  
+    /* Position the tooltip text */
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+  
+    /* Fade in tooltip */
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  
+  /* Tooltip arrow */
+  .tooltip4 .tooltiptext4::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+  }
+  
+  /* Show the tooltip text when you mouse over the tooltip container */
+  .tooltip4:hover .tooltiptext4 {
+    visibility: visible;
+    opacity: 1;
+  }
+  
+
+
+  
+
+
+
+  /* Tooltip container */
+  .tooltip5 {
+    position: absolute;
+    display: inline-block;
+  left: 93.7%;
+  top:9%;
+  }
+  
+  /* Tooltip text */
+  .tooltiptext5 {
+    visibility: hidden;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    font-family: arial;
+    font-weight: lighter;
+    font-size: 10px;
+  
+    /* Position the tooltip text */
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+  
+    /* Fade in tooltip */
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  
+  /* Tooltip arrow */
+  .tooltip5 .tooltiptext5::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+  }
+  
+  /* Show the tooltip text when you mouse over the tooltip container */
+  .tooltip5:hover .tooltiptext5 {
+    visibility: visible;
+    opacity: 1;
+  }
+  
+
+
+  
+
+
+
+  /* Tooltip container */
+  .tooltip6 {
+    position: absolute;
+    display: inline-block;
+  left: 92.3%;
+  top:9%;
+  }
+  
+  /* Tooltip text */
+  .tooltiptext6 {
+    visibility: hidden;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    font-family: arial;
+    font-weight: lighter;
+    font-size: 10px;
+  
+    /* Position the tooltip text */
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+  
+    /* Fade in tooltip */
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  
+  /* Tooltip arrow */
+  .tooltip6 .tooltiptext6::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+  }
+  
+  /* Show the tooltip text when you mouse over the tooltip container */
+  .tooltip6:hover .tooltiptext6 {
+    visibility: visible;
+    opacity: 1;
+  }
+  
+
+
+  
+
+
+
+  /* Tooltip container */
+  .tooltip7 {
+    position: absolute;
+    display: inline-block;
+  left: 90.8%;
+  top:9%;
+  }
+  
+  /* Tooltip text */
+  .tooltiptext7 {
+    visibility: hidden;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    font-family: arial;
+    font-weight: lighter;
+    font-size: 10px;
+  
+    /* Position the tooltip text */
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+  
+    /* Fade in tooltip */
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  
+  /* Tooltip arrow */
+  .tooltip7 .tooltiptext7::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+  }
+  
+  /* Show the tooltip text when you mouse over the tooltip container */
+  .tooltip7:hover .tooltiptext7 {
+    visibility: visible;
+    opacity: 1;
+  }
+  
+
+
+  
+
+
+
+  /* Tooltip container */
+  .tooltip8 {
+    position: absolute;
+    display: inline-block;
+  left: 88.68%;
+  top:9%;
+  }
+  
+  /* Tooltip text */
+  .tooltiptext8 {
+    visibility: hidden;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    font-family: arial;
+    font-weight: lighter;
+    font-size: 10px;
+  
+    /* Position the tooltip text */
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+  
+    /* Fade in tooltip */
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  
+  /* Tooltip arrow */
+  .tooltip8 .tooltiptext8::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+  }
+  
+  /* Show the tooltip text when you mouse over the tooltip container */
+  .tooltip8:hover .tooltiptext8 {
+    visibility: visible;
+    opacity: 1;
+  }
+  
+
+
+  
+
+
+
+  /* Tooltip container */
+  .tooltip9 {
+    position: absolute;
+    display: inline-block;
+  left: 86.8%;
+  top:9%;
+  }
+  
+  /* Tooltip text */
+  .tooltiptext9 {
+    visibility: hidden;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    font-family: arial;
+    font-weight: lighter;
+    font-size: 10px;
+  
+    /* Position the tooltip text */
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+  
+    /* Fade in tooltip */
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  
+  /* Tooltip arrow */
+  .tooltip9 .tooltiptext9::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+  }
+  
+  /* Show the tooltip text when you mouse over the tooltip container */
+  .tooltip9:hover .tooltiptext9 {
+    visibility: visible;
+    opacity: 1;
+  }
+  
+
+
+  
+
+
+
+  /* Tooltip container */
+  .tooltip10 {
+    position: absolute;
+    display: inline-block;
+  left: 85.4%;
+  top:9%;
+  }
+  
+  /* Tooltip text */
+  .tooltiptext10 {
+    visibility: hidden;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    font-family: arial;
+    font-weight: lighter;
+    font-size: 10px;
+  
+    /* Position the tooltip text */
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+  
+    /* Fade in tooltip */
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  
+  /* Tooltip arrow */
+  .tooltip10 .tooltiptext10::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+  }
+  
+  /* Show the tooltip text when you mouse over the tooltip container */
+  .tooltip10:hover .tooltiptext10 {
+    visibility: visible;
+    opacity: 1;
+  }
+  
+
+
+  
+
+
+
+  /* Tooltip container */
+  .tooltip11 {
+    position: absolute;
+    display: inline-block;
+  left: 83.9%;
+  top:9%;
+  }
+  
+  /* Tooltip text */
+  .tooltiptext11 {
+    visibility: hidden;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    font-family: arial;
+    font-weight: lighter;
+    font-size: 10px;
+  
+    /* Position the tooltip text */
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+  
+    /* Fade in tooltip */
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  
+  /* Tooltip arrow */
+  .tooltip11 .tooltiptext11::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+  }
+  
+  /* Show the tooltip text when you mouse over the tooltip container */
+  .tooltip11:hover .tooltiptext11 {
+    visibility: visible;
+    opacity: 1;
+  }
+  
+
+
+  
+
+
+
+  /* Tooltip container */
+  .tooltip12 {
+    position: absolute;
+    display: inline-block;
+  left: 81.3%;
+  top:9%;
+  }
+  
+  /* Tooltip text */
+  .tooltiptext12 {
+    visibility: hidden;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    font-family: arial;
+    font-weight: lighter;
+    font-size: 10px;
+  
+    /* Position the tooltip text */
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+  
+    /* Fade in tooltip */
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  
+  /* Tooltip arrow */
+  .tooltip12 .tooltiptext12::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+  }
+  
+  /* Show the tooltip text when you mouse over the tooltip container */
+  .tooltip12:hover .tooltiptext12 {
+    visibility: visible;
+    opacity: 1;
+  }
+  
+
+
+  
+
+
+
+  /* Tooltip container */
+  .tooltip13 {
+    position: absolute;
+    display: inline-block;
+  left: 78.65%;
+  top:9%;
+  }
+  
+  /* Tooltip text */
+  .tooltiptext13 {
+    visibility: hidden;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    font-family: arial;
+    font-weight: lighter;
+    font-size: 10px;
+  
+    /* Position the tooltip text */
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+  
+    /* Fade in tooltip */
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  
+  /* Tooltip arrow */
+  .tooltip13 .tooltiptext13::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+  }
+  
+  /* Show the tooltip text when you mouse over the tooltip container */
+  .tooltip13:hover .tooltiptext13 {
+    visibility: visible;
+    opacity: 1;
+  }
+  
+  
+
+
+
+  /* Tooltip container */
+  .tooltip14 {
+    position: absolute;
+    display: inline-block;
+  left: 77.7%;
+  top:9%;
+  }
+  
+  /* Tooltip text */
+  .tooltiptext14 {
+    visibility: hidden;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    font-family: arial;
+    font-weight: lighter;
+    font-size: 10px;
+  
+    /* Position the tooltip text */
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+  
+    /* Fade in tooltip */
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  
+  /* Tooltip arrow */
+  .tooltip14 .tooltiptext14::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+  }
+  
+  /* Show the tooltip text when you mouse over the tooltip container */
+  .tooltip14:hover .tooltiptext14 {
+    visibility: visible;
+    opacity: 1;
+  }
+  
+
+
+
+  /* Tooltip container */
+  .tooltip15 {
+    position: absolute;
+    display: inline-block;
+  left: 75.8%;
+  top:9%;
+  }
+  
+  /* Tooltip text */
+  .tooltiptext15 {
+    visibility: hidden;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    font-family: arial;
+    font-weight: lighter;
+    font-size: 10px;
+  
+    /* Position the tooltip text */
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+  
+    /* Fade in tooltip */
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  
+  /* Tooltip arrow */
+  .tooltip15 .tooltiptext15::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+  }
+  
+  /* Show the tooltip text when you mouse over the tooltip container */
+  .tooltip15:hover .tooltiptext15 {
+    visibility: visible;
+    opacity: 1;
+  }
+  
+
+
+
+
+  
+
+  /* Tooltip container */
+  .tooltip16 {
+    position: absolute;
+    display: inline-block;
+  left: 74%;
+  top:9%;
+  }
+  
+  /* Tooltip text */
+  .tooltiptext16 {
+    visibility: hidden;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    font-family: arial;
+    font-weight: lighter;
+    font-size: 10px;
+  
+    /* Position the tooltip text */
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+  
+    /* Fade in tooltip */
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  
+  /* Tooltip arrow */
+  .tooltip16 .tooltiptext16::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+  }
+  
+  /* Show the tooltip text when you mouse over the tooltip container */
+  .tooltip16:hover .tooltiptext16 {
+    visibility: visible;
+    opacity: 1;
+  }
+  
+
+
+  /* Tooltip container */
+  .tooltip17 {
+    position: absolute;
+    display: inline-block;
+  left: 72.35%;
+  top:9%;
+  }
+  
+  /* Tooltip text */
+  .tooltiptext17 {
+    visibility: hidden;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    font-family: arial;
+    font-weight: lighter;
+    font-size: 10px;
+  
+    /* Position the tooltip text */
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+  
+    /* Fade in tooltip */
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  
+  /* Tooltip arrow */
+  .tooltip17 .tooltiptext17::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+  }
+  
+  /* Show the tooltip text when you mouse over the tooltip container */
+  .tooltip17:hover .tooltiptext17 {
+    visibility: visible;
+    opacity: 1;
+  }
+  
+
+
+/* Tooltip container */
+.tooltip18 {
+  position: absolute;
+  display: inline-block;
+left: 70.8%;
+top:9%;
+}
+
+/* Tooltip text */
+.tooltiptext18 {
+  visibility: hidden;
+  width: 120px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+  font-family: arial;
+  font-weight: lighter;
+  font-size: 10px;
+
+  /* Position the tooltip text */
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
+
+  /* Fade in tooltip */
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+/* Tooltip arrow */
+.tooltip18 .tooltiptext18::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip18:hover .tooltiptext18 {
+  visibility: visible;
+  opacity: 1;
+}
+
+
+
+/* Tooltip container */
+.tooltip19 {
+  position: absolute;
+  display: inline-block;
+left: 68.65%;
+top:9%;
+}
+
+/* Tooltip text */
+.tooltiptext19 {
+  visibility: hidden;
+  width: 120px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+  font-family: arial;
+  font-weight: lighter;
+  font-size: 10px;
+
+  /* Position the tooltip text */
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
+
+  /* Fade in tooltip */
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+/* Tooltip arrow */
+.tooltip19 .tooltiptext19::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip19:hover .tooltiptext19 {
+  visibility: visible;
+  opacity: 1;
+}
+
+
+
+
+
+
+
+
+/* Tooltip container */
+.tooltip20 {
+  position: absolute;
+  display: inline-block;
+left: 67.2%;
+top:9%;
+}
+
+/* Tooltip text */
+.tooltiptext20 {
+  visibility: hidden;
+  width: 120px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+  font-family: arial;
+  font-weight: lighter;
+  font-size: 10px;
+
+  /* Position the tooltip text */
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
+
+  /* Fade in tooltip */
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+/* Tooltip arrow */
+.tooltip20 .tooltiptext20::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip20:hover .tooltiptext20 {
+  visibility: visible;
+  opacity: 1;
+}
+
+
+
+
+
+/* Tooltip container */
+.tooltip21 {
+  position: absolute;
+  display: inline-block;
+left: 65.8%;
+top:9%;
+}
+
+/* Tooltip text */
+.tooltiptext21 {
+  visibility: hidden;
+  width: 120px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+  font-family: arial;
+  font-weight: lighter;
+  font-size: 10px;
+
+  /* Position the tooltip text */
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
+
+  /* Fade in tooltip */
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+/* Tooltip arrow */
+.tooltip21 .tooltiptext21::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip21:hover .tooltiptext21 {
+  visibility: visible;
+  opacity: 1;
+}
+
+
+
+
+/* Tooltip container */
+.tooltip22 {
+  position: absolute;
+  display: inline-block;
+left: 64.4%;
+top:9%;
+}
+
+/* Tooltip text */
+.tooltiptext22 {
+  visibility: hidden;
+  width: 120px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+  font-family: arial;
+  font-weight: lighter;
+  font-size: 10px;
+
+  /* Position the tooltip text */
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
+
+  /* Fade in tooltip */
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+/* Tooltip arrow */
+.tooltip22 .tooltiptext22::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip22:hover .tooltiptext22 {
+  visibility: visible;
+  opacity: 1;
+}
+
+
+
+
+/* Tooltip container */
+.tooltip23 {
+  position: absolute;
+  display: inline-block;
+left: 60.2%;
+top:9%;
+}
+
+/* Tooltip text */
+.tooltiptext23 {
+  visibility: hidden;
+  width: 120px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+  font-family: arial;
+  font-weight: lighter;
+  font-size: 10px;
+
+  /* Position the tooltip text */
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
+
+  /* Fade in tooltip */
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+/* Tooltip arrow */
+.tooltip23 .tooltiptext23::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip23:hover .tooltiptext23 {
+  visibility: visible;
+  opacity: 1;
+}
+
+
+
+/* Tooltip container */
+.tooltip24 {
+  position: absolute;
+  display: inline-block;
+left: 50.7%;
+top:9%;
+}
+
+/* Tooltip text */
+.tooltiptext24 {
+  visibility: hidden;
+  width: 120px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+  font-family: arial;
+  font-weight: lighter;
+  font-size: 10px;
+
+  /* Position the tooltip text */
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
+
+  /* Fade in tooltip */
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+/* Tooltip arrow */
+.tooltip24 .tooltiptext24::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip24:hover .tooltiptext24 {
+  visibility: visible;
+  opacity: 1;
+}
+
+
+
+
+
+
+/* Tooltip container */
+.tooltip25 {
+  position: absolute;
+  display: inline-block;
+left: 42.5%;
+top:9%;
+}
+
+/* Tooltip text */
+.tooltiptext25 {
+  visibility: hidden;
+  width: 120px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+  font-family: arial;
+  font-weight: lighter;
+  font-size: 10px;
+
+  /* Position the tooltip text */
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
+
+  /* Fade in tooltip */
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+/* Tooltip arrow */
+.tooltip25 .tooltiptext25::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip25:hover .tooltiptext25 {
+  visibility: visible;
+  opacity: 1;
+}
+
+
+
+
+/* Tooltip container */
+.tooltip26 {
+  position: absolute;
+  display: inline-block;
+left: 27.7%;
+top:9%;
+}
+
+/* Tooltip text */
+.tooltiptext26 {
+  visibility: hidden;
+  width: 120px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+  font-family: arial;
+  font-weight: lighter;
+  font-size: 10px;
+
+  /* Position the tooltip text */
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
+
+  /* Fade in tooltip */
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+/* Tooltip arrow */
+.tooltip26 .tooltiptext26::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip26:hover .tooltiptext26 {
+  visibility: visible;
+  opacity: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
