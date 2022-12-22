@@ -1,0 +1,1022 @@
+body {
+    background-color: skyblue;
+}
+h1 {
+    color: white;
+    font-family: arial;
+    font-style: italic;
+    font-weight: lighter;
+    font-size: 12px;
+}
+h2 {
+    color: white;
+    font-family: arial;
+    font-style: italic;
+    font-weight: lighter;
+    font-size: 12px;
+}
+a {
+    color: white;
+    font-family: arial;
+    font-style: italic;
+    font-weight: lighter;
+    font-size: 12px;
+}
+.a1 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    left: 99.9%;
+    margin-left: -3px;
+    top: 20;
+  }
+  .a2 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    left: 99%;
+    margin-left: -3px;
+    top: 20;
+  }
+  .a3 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    left: 97%;
+    margin-left: -3px;
+    top: 20;
+  }
+  .a4 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    left: 95%;
+    margin-left: -3px;
+    top: 20;
+  }
+  .a5 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    left: 93%;
+    margin-left: -3px;
+    top: 20;
+  }
+  
+  .a6 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    left: 91%;
+    margin-left: -3px;
+    top: 20;
+  }
+  
+  .a7 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    left: 89%;
+    margin-left: -3px;
+    top: 20;
+  }
+  
+  .a8 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    left: 87%;
+    margin-left: -3px;
+    top: 20;
+  }
+  
+  .a9 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    left: 85%;
+    margin-left: -3px;
+    top: 20;
+  }
+  
+
+  .a10 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    left: 83%;
+    margin-left: -3px;
+    top: 20;
+  }
+  
+  .a11 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    left: 81%;
+    margin-left: -3px;
+    top: 20;
+  }
+  
+  .a12 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    left: 79%;
+    margin-left: -3px;
+    top: 20;
+  }
+  
+  .a13 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    left: 77%;
+    margin-left: -3px;
+    top: 20;
+  }
+  
+  .a14 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    left: 75%;
+    margin-left: -3px;
+    top: 20;
+  }
+  
+  .a15 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    left: 73%;
+    margin-left: -3px;
+    top: 20;
+  }
+  
+  .a16 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    left: 71%;
+    margin-left: -3px;
+    top: 20;
+  }
+  
+  .a17 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    left: 69%;
+    margin-left: -3px;
+    top: 20;
+  }
+  
+  .a18 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    left: 67%;
+    margin-left: -3px;
+    top: 20;
+  }
+  
+  .a19 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    left: 65%;
+    margin-left: -3px;
+    top: 20;
+  }
+  
+  .a20 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    left: 63%;
+    margin-left: -3px;
+    top: 20;
+  }
+  
+  .a21 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    left: 61%;
+    margin-left: -3px;
+    top: 20;
+  }
+  .a22 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    left: 59%;
+    margin-left: -3px;
+    top: 20;
+  }
+  .a23 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    top: 20;
+  }
+  .a24 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    left: 47.5%;
+    margin-left: -3px;
+    top: 20;
+  }
+  .a25 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    left: 38.5%;
+    margin-left: -3px;
+    top: 20;
+  }
+  .a26 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    left: 30%;
+    margin-left: -3px;
+    top: 20;
+  }
+  .a27 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    left: 26%;
+    margin-left: -3px;
+    top: 20;
+  }
+  .a28 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    left: 23%;
+    margin-left: -3px;
+    top: 20;
+  }
+  .a29 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    left: 21%;
+    margin-left: -3px;
+    top: 20;
+  }
+  .a30 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 81%;
+    margin-left: -3px;
+    top: 20;
+  }
+  .a31 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 84.5%;
+    margin-left: -3px;
+    top: 20;
+  }
+  .a32 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 87%;
+    margin-left: -3px;
+    top: 20;
+  }
+  .a33 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 89.5%;
+    margin-left: -3px;
+    top: 20;
+  }
+  .a34 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 91.5%;
+    margin-left: -3px;
+    top: 20;
+  }
+  .a35 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 92.5%;
+    margin-left: -3px;
+    top: 20;
+  }
+  .a36 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 94.5%;
+    margin-left: -3px;
+    top: 20;
+  }
+  .a37 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 85%;
+    margin-left: -3px;
+    top: 24%;
+  }
+  .a38 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 83%;
+    margin-left: -3px;
+    top: 24%;
+  }
+  .a39 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 81.5%;
+    margin-left: -3px;
+    top: 24%;
+  }
+  
+  .a40 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 76%;
+    margin-left: -3px;
+    top: 24%;
+  }
+  .a41 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 70%;
+    margin-left: -3px;
+    top: 24%;
+  }
+  .a42 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 68%;
+    margin-left: -3px;
+    top: 24%;
+  }
+  .a43 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 66%;
+    margin-left: -3px;
+    top: 24%;
+  }
+  .a45 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 63%;
+    margin-left: -3px;
+    top: 24%;
+  }
+  .a46 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 41%;
+    margin-left: -3px;
+    top: 24%;
+  }
+  .a47 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 30.5%;
+    margin-left: -3px;
+    top: 24%;
+  }
+  .a48 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 19.5%;
+    margin-left: -3px;
+    top: 24%;
+  }
+  .a49 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 17%;
+    margin-left: -3px;
+    top: 24%;
+  }
+  .a50 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 14%;
+    margin-left: -3px;
+    top: 24%;
+  }
+  .a51 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 5.5%;
+    margin-left: -3px;
+    top: 24%;
+  }
+  .a52 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 2%;
+    margin-left: -3px;
+    top: 39%;
+  }
+  .a53 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 8%;
+    margin-left: -3px;
+    top: 39%;
+  }
+  .a54 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 10%;
+    margin-left: -3px;
+    top: 39%;
+  }
+  .a55 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 12%;
+    margin-left: -3px;
+    top: 39%;
+  }
+  .a56 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 13.5%;
+    margin-left: -3px;
+    top: 39%;
+  }
+  .a57 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 16%;
+    margin-left: -3px;
+    top: 39%;
+  }
+  .a58 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 18%;
+    margin-left: -3px;
+    top: 39%;
+  }
+  .a59 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 20%;
+    margin-left: -3px;
+    top: 39%;
+  }
+  .a60 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 22%;
+    margin-left: -3px;
+    top: 39%;
+  }
+  .a61 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 24%;
+    margin-left: -3px;
+    top: 39%;
+  }
+  .a62 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 26%;
+    margin-left: -3px;
+    top: 39%;
+  }
+  .a63 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 31%;
+    margin-left: -3px;
+    top: 39%;
+  }
+  .a64 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 33%;
+    margin-left: -3px;
+    top: 39%;
+  }
+  .a65 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 35%;
+    margin-left: -3px;
+    top: 39%;
+  }
+  .a66 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 37%;
+    margin-left: -3px;
+    top: 39%;
+  }
+  .a67 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 39%;
+    margin-left: -3px;
+    top: 39%;
+  }
+  
+  .a68 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 41%;
+    margin-left: -3px;
+    top: 39%;
+  }
+  .a69 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 44.5%;
+    margin-left: -3px;
+    top: 39%;
+  }
+  .a70 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 46%;
+    margin-left: -3px;
+    top: 39%;
+  }
+  .a71 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 47.5%;
+    margin-left: -3px;
+    top: 39%;
+  }
+  .a72 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 49%;
+    margin-left: -3px;
+    top: 39%;
+  }
+  
+  .a73 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 55.5%;
+    margin-left: -3px;
+    top: 39%;
+  }
+  
+  .a74 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 58.5%;
+    margin-left: -3px;
+    top: 39%;
+  }
+
+  .a75 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 60.5%;
+    margin-left: -3px;
+    top: 39%;
+  }
+  .a76 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 62%;
+    margin-left: -3px;
+    top: 39%;
+  }
+  .a77 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 64%;
+    margin-left: -3px;
+    top: 39%;
+  }
+  .a78 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 67.5%;
+    margin-left: -3px;
+    top: 39%;
+  }
+  .a79 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 69.7%;
+    margin-left: -3px;
+    top: 39%;
+  }
+  .a80 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 73.5%;
+    margin-left: -3px;
+    top: 39%;
+  }
+  .a81 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 76.5%;
+    margin-left: -3px;
+    top: 39%;
+  }
+  .a82 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 79%;
+    margin-left: -3px;
+    top: 39%;
+  }
+  
+  .a83 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 82%;
+    margin-left: -3px;
+    top: 39%;
+  }
+  
+  
+  .a84 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 89.5%;
+    margin-left: -3px;
+    top: 39%;
+  }
+  
+  
+  .a85 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 95.5%;
+    margin-left: -3px;
+    top: 39%;
+  }
+  
+  
+  .a86 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 97%;
+    margin-left: -3px;
+    top: 39%;
+  }
+  .a87 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 96.5%;
+    margin-left: -3px;
+    top: 54%;
+  }
+  
+  .a88 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 94%;
+    margin-left: -3px;
+    top: 54%;
+  }
+  .a89 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 92%;
+    margin-left: -3px;
+    top: 54%;
+  }
+  .a90 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 90%;
+    margin-left: -3px;
+    top: 54%;
+  }
+  .a91 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 86%;
+    margin-left: -3px;
+    top: 54%;
+  }
+  .a92 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 82.5%;
+    margin-left: -3px;
+    top: 54%;
+  }
+  .a93 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 81%;
+    margin-left: -3px;
+    top: 54%;
+  }
+  .a94 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 76%;
+    margin-left: -3px;
+    top: 54%;
+  }
+
+  .a95 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 72.5%;
+    margin-left: -3px;
+    top: 54%;
+  }
+  .a96 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 70%;
+    margin-left: -3px;
+    top: 54%;
+  }
+  .a97 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 68%;
+    margin-left: -3px;
+    top: 54%;
+  }
+  .a98 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 66%;
+    margin-left: -3px;
+    top: 54%;
+  }
+  .a99 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 63%;
+    margin-left: -3px;
+    top: 54%;
+  }
+  .a100 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 61%;
+    margin-left: -3px;
+    top: 54%;
+  }
+
+  .a101 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 54%;
+    margin-left: -3px;
+    top: 54%;
+  }
+  .a102 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 50.5%;
+    margin-left: -3px;
+    top: 54%;
+  }
+  .a103 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 49%;
+    margin-left: -3px;
+    top: 54%;
+  }
+  .a104 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 42.5%;
+    margin-left: -3px;
+    top: 54%;
+  }
+  .a105 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 41%;
+    margin-left: -3px;
+    top: 54%;
+  }
+  .a106 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 39%;
+    margin-left: -3px;
+    top: 54%;
+  }
+  .a107 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 31%;
+    margin-left: -3px;
+    top: 54%;
+  }
+
+  .a108 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 22%;
+    margin-left: -3px;
+    top: 54%;
+  }
+
+  .a109 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 20%;
+    margin-left: -3px;
+    top: 54%;
+  }
+  .a110 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 17.5%;
+    margin-left: -3px;
+    top: 54%;
+  }
+
+
+
+  
+  .a111 {
+    border-left: 6px solid white;
+    height: 500px;
+    position: absolute;
+    right: 12%;
+    margin-left: -3px;
+    top: 54%;
+  }
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+/* Tooltip container */
+.tooltip {
+    position: relative;
+    display: inline-block;
+   
+  }
+  
+  /* Tooltip text */
+  .tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+  
+    /* Position the tooltip text */
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+  
+    /* Fade in tooltip */
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  
+  /* Tooltip arrow */
+  .tooltip .tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+  }
+  
+  /* Show the tooltip text when you mouse over the tooltip container */
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+  }
